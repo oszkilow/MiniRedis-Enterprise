@@ -1,0 +1,12 @@
+# Carpetas de IntelliJ
+.idea/
+*.iml
+
+# Carpetas de compilación de Java
+out/
+bin/
+build/
+
+# Archivos temporales
+*.class
+*.log
